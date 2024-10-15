@@ -24,15 +24,15 @@ This project reinforced the importance of user experience design in web applicat
 ## Getting Started
 To get started with the project:
 1. Clone the repository:
-   ```bash
-  git clone https://github.com/yourusername/py4web-post-reply-app.git
+    ```bash
+    git clone https://github.com/yourusername/py4web-post-reply-app.git
 
 2. Navigate to the project directory:
     ```bash
     cd py4web-post-reply-app
 
 3. Install the necessary dependencies (if any) and run the application:
-  ```bash
-  python app.py
+    ```bash
+    python app.py
   
 4. Open your web browser and go to `http://localhost:8000` to see the application in action.
